@@ -1,5 +1,5 @@
 # AI-in-CV---Python
-“AI in Computer Vision using Python ”
+## “AI in Computer Vision using Python ”
 About Workshop:
 Welcome to the "AI in Computer Vision using Python" one-day workshop! The workshop aims to introduce participants to the fundamental concepts of Computer Vision and how Artificial Intelligence techniques can be applied to solve various vision tasks using Python. Below is the agenda for the day:
 
